@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.items{
+    background: green;
+    text-align: center;
+    color: #fff;
+    margin-left: 4px;
+    padding: 50px 20px;
+}
+button{
+    padding: 14px 20px;
+    background-color: cadetblue;
+    color: #fff;
+    font-weight: 700;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.yeaa{
+    background: rgb(7, 118, 146);
+    text-align: center;
+    color: #fff;
+    margin-left: 4px;
+    padding: 50px 20px;
+}
